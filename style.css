@@ -1,19 +1,96 @@
+
 body {
       background-color: #0000FF;
       color: white;
 }
 
 header {
+    height:100px;
+    width:100%;
+    margin-left:10px;
+    color: white;
+    font-size: 8vw;
+    font-family: 'Helvetica', cursive;
+    }
 
+.container {
+  display: inline;
 }
 
+.column-left {
+  float: left;
+  width: 33.333%;
+  padding: 5px;
+}
+
+.column-right {
+  float: right;
+  width: 33.333%;
+  padding: 5px;
+}
+
+.column-center {
+  display: inline-block;
+  width: 33.333%;
+  padding: 5px;
+}
+
+/*
 h1 {
     height:100px;
     width:100%;
     margin-left:10px;
     color: white;
-    font-size: 80px;
-    font-family: 'Faster One', cursive;
+    font-size: 6vw;
+    font-family: 'Helvetica', cursive;
+    }
+
+    p {
+      display: none;
+      color: white;
+      font-family: 'Helvetica';
+      font-size: 3vw;
+    }
+
+h1:hover + p{
+    display: block;
+}
+*/
+h2 {
+  /*  height:100px;
+    width:100%;
+    margin-left:10px;
+  */
+    color: white;
+    font-size: 2vw;
+    font-family: 'Helvetica', cursive;
+    }
+
+    p {
+      display: inline-block;
+      color: white;
+      font-family: 'Helvetica';
+      font-size:1.7vw;
+      height: auto;
+      padding: 10px;
+    }
+
+    a{
+      color: white;
+    }
+
+/*
+h2:hover + p{
+    display: inline-block;
+}
+
+h3 {
+    height:100px;
+    width:100%;
+    margin-left:10px;
+    color: white;
+    font-size: 3vw;
+    font-family: 'Helvetica', cursive;
     }
 
     p {
@@ -24,9 +101,10 @@ h1 {
       margin-right:300px;
       color: white;
       font-family: 'Helvetica';
-      font-size: 24px;
+      font-size: 1vw;
     }
 
-h1:hover + p{
+h3:hover + p{
     display: block;
+    */
 }
