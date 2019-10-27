@@ -35,27 +35,6 @@ header {
   padding: 5px;
 }
 
-/*
-h1 {
-    height:100px;
-    width:100%;
-    margin-left:10px;
-    color: white;
-    font-size: 6vw;
-    font-family: 'Helvetica', cursive;
-    }
-
-    p {
-      display: none;
-      color: white;
-      font-family: 'Helvetica';
-      font-size: 3vw;
-    }
-
-h1:hover + p{
-    display: block;
-}
-*/
 h2 {
   /*  height:100px;
     width:100%;
@@ -79,32 +58,4 @@ h2 {
       color: white;
     }
 
-/*
-h2:hover + p{
-    display: inline-block;
-}
-
-h3 {
-    height:100px;
-    width:100%;
-    margin-left:10px;
-    color: white;
-    font-size: 3vw;
-    font-family: 'Helvetica', cursive;
-    }
-
-    p {
-      display: none;
-      height:60px;
-      max-width:50%;
-      margin-left:50px;
-      margin-right:300px;
-      color: white;
-      font-family: 'Helvetica';
-      font-size: 1vw;
-    }
-
-h3:hover + p{
-    display: block;
-    */
 }
