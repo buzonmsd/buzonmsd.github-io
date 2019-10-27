@@ -14,7 +14,7 @@ header {
     }
 
 .container {
-  display: inline;
+  display: flex;
 }
 
 .column-left {
