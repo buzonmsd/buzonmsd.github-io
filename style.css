@@ -92,7 +92,7 @@ a:active{
     position: absolute; 
   }
   
-  .dani_jr, .sebas_jr, .ef_diagrama, .ef_sala, .presentness_diagrama, .presentness_web, .presentness_sala {
+  .dani_jr, .sebas_jr, .ef_diagrama, .ef_sala, .presentness_diagrama, .presentness_web, .presentness_sala, .ccma_home {
     max-width: 50%;
     max-height: 60%;
     display: none;
