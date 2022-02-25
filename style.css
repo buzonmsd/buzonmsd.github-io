@@ -2,7 +2,6 @@
 * {
     margin: 0;
     padding: 0;
-    /*cursor: url("https://downloads.totallyfreecursors.com/cursor_files/laptop.ani"), url("https://downloads.totallyfreecursors.com/thumbnails/laptop.gif"), auto; */
     cursor: auto;
     -webkit-font-smoothing: antialiased;
     -webkit-user-select: none;
@@ -14,7 +13,6 @@
   }
 
   body {
-    /*background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/3243240/original_0c41f09b8a675e4681d17ff61c391c98.jpg?1545380515?bc=1");*/
     background-color: blue;
     background-size: contain;
     background-position: center center;
@@ -24,17 +22,6 @@
     height: 100%;
     display: block;
     margin: 0 auto;
-
-  /*
-    width: 100wh;
-    height: 90vh;
-    color: #fff;
-    background: linear-gradient(120deg, #FDFEE3, #FEE3E3, #E3FEFB, #F1E3FE);
-    background-size: 400% 400%;
-    -webkit-animation: Gradient 15s ease infinite;
-    -moz-animation: Gradient 15s ease infinite;
-    animation: Gradient 15s ease infinite;
-    */
   }
   
   
@@ -146,13 +133,11 @@ a:active{
     padding-left:  3px;
     padding-right:  3px;
     position: absolute;
+    text-align: right;
     bottom: 10px;
     right: 10px;
     font-family: "schola", sans-serif;
     font-weight: lighter;
     font-size: 1.5vw;
     color:  whitesmoke;
-
-
-
-    }
+  }
