@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+    -webkit-user-select: none;
+    -moz-user-select: -moz-none;
+    user-select: none;
+    cursor:url('../cur1.png'), auto;
+  }
+
+  body {
+    background-color: none;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    display: block;
+    margin: 0 auto
+  }
+
+
+.home {
+      float: right;
+      padding: 5px;
+      position: fixed;
+      bottom: 1%;
+      right: 1%;
+      }
+      
+#home:hover {
+      filter: drop-shadow(0 0 1rem rgba(0, 0, 0, 1));
+      }
